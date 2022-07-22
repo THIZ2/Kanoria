@@ -1,0 +1,72 @@
+*
+{
+    margin: 20px;
+    padding: 10px;
+}
+
+.main
+{
+    height: 1000px;
+    width:90%;
+    
+    margin:0 auto;
+}
+.header
+{
+    margin-bottom: -5%;
+}
+
+
+
+.content
+{
+    height: 800px;
+    width:100%;
+   
+    
+}
+.left-bar
+{
+    height: 800px;
+    width:20%;
+   margin-top:-3%;
+    
+    float:left;
+}
+.text-area
+{
+    height: 800px;
+    width:60%;
+   
+    float:left;
+}
+.right-bar
+{
+    height: 800px;
+    width:20%;
+  margin-top:-3%;
+    
+    float:right;
+}
+.text-area .marquee
+{
+    background-color:  red;
+    color: #fff;
+    margin-left: 7%;
+    margin-right: 3%;
+    height: 4%;
+}
+p
+{
+  padding-top:1%;
+   
+    font-size: 15px;
+    font-weight: lighter;
+    color:#fff;
+}
+.footer
+{
+    
+    width:100%;
+
+}
